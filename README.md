@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Raju Kumar</h1>
 <h3 align="center">A passionate software developer from India</h3>
+<div align='center'>
 
-<img src="https://res.cloudinary.com/dujm0zzws/image/upload/v1740652340/Animation_-_1740651748826_cjlvg4.gif" alt="Computer man" style="width:100%;height:400px; justify-content: center;align-items: center;">
+![profile-3d](https://github.com/Abhinandan-Kushwaha/Abhinandan-Kushwaha/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
 
+  </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raju-creators-mind&label=Profile%20views&color=0e75b6&style=flat" alt="raju-creators-mind" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raju-creators-mind" alt="raju-creators-mind" /></a> </p>
@@ -24,6 +26,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
+
 
 
 ## My favorite tools and technologies ⚙️
